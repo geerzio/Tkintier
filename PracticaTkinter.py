@@ -10,7 +10,7 @@ ventana.title("Mi aplicacion")
 ventana.geometry("800x600")
 
 etiqueta = tk.Label(ventana,
-                    text="La concha de tu hermana",
+                    text="Envio de datos",
                     font=("bold"),
                     background="red",
                     foreground="green",
